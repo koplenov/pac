@@ -1,20 +1,10 @@
-R.id.podcasts_1
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=g_4_c1Q8bGc")))
-            R.id.podcasts_2
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=PwMhqY-0zyQ")))
-            R.id.podcasts_3
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=VDoxPn9Ew8I")))
-            R.id.podcasts_4
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=w2OL3qwPiq4")))
-            R.id.podcasts_5
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=FnJf8NXQrDg")))
-            R.id.podcasts_6
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=QqhCbEUDmNo")))
-            R.id.podcasts_7
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=hnJojFBLEyc")))
-            R.id.podcasts_8
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=aFP8UpYFRCc")))
-            R.id.podcasts_9
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=MYftxFefnc4")))
-            R.id.podcasts_10
-            -> startActivity(Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.youtube.com/watch?v=wfz7zFy7mYY")))
+https://www.youtube.com/watch?v=g_4_c1Q8bGc
+https://www.youtube.com/watch?v=PwMhqY-0zyQ
+https://www.youtube.com/watch?v=VDoxPn9Ew8I
+https://www.youtube.com/watch?v=w2OL3qwPiq4
+https://www.youtube.com/watch?v=FnJf8NXQrDg
+https://www.youtube.com/watch?v=QqhCbEUDmNo
+https://www.youtube.com/watch?v=hnJojFBLEyc
+https://www.youtube.com/watch?v=aFP8UpYFRCc
+https://www.youtube.com/watch?v=MYftxFefnc4
+https://www.youtube.com/watch?v=wfz7zFy7mYY
